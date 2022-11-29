@@ -23,10 +23,10 @@
 ## Layout types
 
 1. Float Layouts
-   - the **Old way of building layouts** of all sizes, using the float CSS property. Still used, but getting outdated. (Natours Project is based out of Float Layouts)
+   * the **Old way of building layouts** of all sizes, using the float CSS property. Still used, but getting outdated. (Natours Project is based out of Float Layouts)
 
 2. Flexbox
-   - Modern way of laying out elements in a **1-dimensional** row without using floats. Persfect for **component layouts**.
+   * Modern way of laying out elements in a **1-dimensional** row without using floats. Persfect for **component layouts**.
 
 3. CSS Grid
-   - For laying out elemts in a fully-fledged **2-dimensional grid** perfect for **page layouts and complex components**
+   * For laying out elemts in a fully-fledged **2-dimensional grid** perfect for **page layouts and complex components**
